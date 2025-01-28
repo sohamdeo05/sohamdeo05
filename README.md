@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sohamdeo05&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sohamdeo05)
 [![GitHub Followers](https://img.shields.io/github/followers/sohamdeo05?logo=github&style=flat&color=blue)](https://github.com/sohamdeo05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sohamde0/](https://www.linkedin.com/in/sohamde0/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohamde0/)
 
 ## 📊 GitHub Stats
 
