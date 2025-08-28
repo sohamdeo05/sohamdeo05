@@ -8,8 +8,8 @@
 
 <!-- Stats Row -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohamdeo05&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamdeo05&theme=dark&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohamdeo05&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamdeo05&theme=radical&hide_border=true&layout=compact" />
 </div>
 
 
@@ -20,7 +20,7 @@
 
 ## 📈 Activity Graph
 
-[![Soham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamdeo05&theme=radical)](https://github.com/sohamdeo05)
+[![Soham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamdeo05&theme=github-compact)](https://github.com/sohamdeo05)
 
 
 ## 📫 Let's Connect!
