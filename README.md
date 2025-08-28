@@ -8,8 +8,8 @@
 
 <!-- Stats Row -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohamdeo05&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamdeo05&theme=radical&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohamdeo05&show_icons=true&theme=neon&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamdeo05&theme=neon&hide_border=true&layout=compact" />
 </div>
 
 
@@ -17,17 +17,17 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ## 📈 Activity Graph
 
-[![Soham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamdeo05&theme=github-compact)](https://github.com/sohamdeo05)
+[![Soham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamdeo05&theme=high-contrast)](https://github.com/sohamdeo05)
 
 
 ## 📫 Let's Connect!
 
-- 🔭 I’m currently working on Operating Systems
-- 🌱 I’m currently learning
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+- 🔭 I’m currently working on [OS Projects](https://github.com/sohamdeo05/ostep-projects)
+- 🌱 I’m currently learning Operating Systems, Machine Learning
   
 
 <p align="center">
