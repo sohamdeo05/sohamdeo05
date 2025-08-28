@@ -20,7 +20,7 @@
 
 ## 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamdeo05&theme=github-compact)](https://github.com/sohamdeo05)
+[![Soham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamdeo05&theme=radical)](https://github.com/sohamdeo05)
 
 
 ## 📫 Let's Connect!
