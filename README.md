@@ -25,10 +25,10 @@
 
 ## 📫 Let's Connect!
 
-- 🔭 I’m currently working on
-  absolutely nothing
+- 🔭 I’m currently working on Operating Systems
 - 🌱 I’m currently learning
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+  
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=sohamdeo05&countColor=%237B1E7B" />
